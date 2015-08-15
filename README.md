@@ -1,8 +1,10 @@
 # Awesome browser extensions for GitHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/mailtoharshit/awesome-salesforce)
 
+[![Join the chat at https://gitter.im/mailtoharshit/awesome-salesforce](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mailtoharshit/awesome-salesforce?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+
 > A collection of awesome browser extensions for Salesforce. Read complete list of awesome-salesforce resource[https://github.com/mailtoharshit/awesome-salesforce] resources.
 
-[![Join the chat at https://gitter.im/mailtoharshit/awesome-salesforce](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mailtoharshit/awesome-salesforce?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 ## Toggle it &nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/toggle-it-by-oyecode/cjpcmpioceijmelkgknddeiljogoakbl?hl=en)
