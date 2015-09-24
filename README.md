@@ -37,7 +37,7 @@ Use this extension to search of Code modules, shows up on your Setup page
 
 [<img src="https://lh4.googleusercontent.com/jYVewsLFU861Gj2vzA0BpgQBgJExVEa8pGUxHHItlF5zWuUXmDhSFTQaTuNXM5VS-GNeCQI-=s640-h400-e365-rw" align="center" width="400">](https://chrome.google.com/webstore/detail/salesforce-advanced-code/lnkgcmpjkkkeffambkllliefdpjdklmi?utm_source=chrome-app-launcher-info-dialog)
 
-## Salesforce Developer Tool Suite&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/toggle-it-by-oyecode/cjpcmpioceijmelkgknddeiljogoakbl?hl=en)
+## Salesforce Developer Tool Suite&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/salesforce-developer-tool/fiaakhiohminpblhmlihfcdhclmphjcd?utm_source=chrome-app-launcher-info-dialog)
 
 Very useful extension for viewing and managing your logs without leaving your current Salesforce tab. It also has other great features like adding a log request for the current user, filtering logs, and log options
 
