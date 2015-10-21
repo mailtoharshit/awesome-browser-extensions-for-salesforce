@@ -54,3 +54,10 @@ This simple yet usefull extension replaces all field labels of an object detail 
 Quick Salesforce ID converter from 15 to 18 digit format.
 
 [<img src="https://lh6.googleusercontent.com/mjxdnB2xS2D9RCdfKcpg2FIfK-olmhoJm8FaO9H7po87eVg4UIGkO8s-h5-QHivZtTdRx5G76H0=s640-h400-e365-rw" align="center" width="400">](https://chrome.google.com/webstore/detail/salesforcecom-id-converte/kiagkehielelkabjcakhpekplnelkaol?utm_source=chrome-app-launcher-info-dialog)
+
+
+## Salesforce Lighting Components Inspector &nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/salesforcecom-id-converte/kiagkehielelkabjcakhpekplnelkaol?hl=en)
+
+Chrome Developer Tools Extension for inspecting Salesforce Lightning Component apps
+
+[<img src="https://lh3.googleusercontent.com/O5XntS0pLdfDwQW7AQG8dia8GsIsQbTh377XrxiTyNSbhgcRFAzkagv-ekH-3onckPKe7A2kfEs=s640-h400-e365-rw" align="center" width="400">](https://chrome.google.com/webstore/detail/lightning-components-insp/mnfgcbifpfmdbjjlnjfgighajkpoadfh)
