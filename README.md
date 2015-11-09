@@ -7,7 +7,7 @@
 
 
 
-## Toggle it &nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/toggle-it-by-oyecode/cjpcmpioceijmelkgknddeiljogoakbl?hl=en)
+## Toggle it - Turn Developer mode On/Off with click &nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/toggle-it-by-oyecode/cjpcmpioceijmelkgknddeiljogoakbl?hl=en)
 
 To debug javascript on visualforce page in Salesforce.com, quite often user have to turn off 'Development Mode' on and off. This application will let you toggle on/off in one click in and no time and makes life easy for your debug JavaScript on pages. The objective is to make life easy for developer and make a handy tool
 
