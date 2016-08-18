@@ -12,7 +12,7 @@ To debug javascript on visualforce page in Salesforce.com, quite often user have
 
 [<img src="http://i.imgur.com/ImgqbSV.png" align="center" width="400">](https://chrome.google.com/webstore/detail/toggle-it-by-oyecode/cjpcmpioceijmelkgknddeiljogoakbl?hl=en)
 
-## Force.com Login&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/toggle-it-by-oyecode/cjpcmpioceijmelkgknddeiljogoakbl?hl=en)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_24x24.png"  >](https://addons.mozilla.org/en-us/firefox/addon/salesforce-login/)
+## Force.com Login&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/forcecom-logins/ldjbglicecgnpkpdhpbogkednmmbebec?hl=en)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_24x24.png"  >](https://addons.mozilla.org/en-us/firefox/addon/salesforce-login/)
 
 This extension manages your salesforce.com login information and lets you quickly login. Most of the Force.com developers have multiple accounts, and they are tired of entering username and password every time they move from an account to the other
 
