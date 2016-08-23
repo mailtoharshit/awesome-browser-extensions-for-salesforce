@@ -18,13 +18,13 @@ This extension manages your salesforce.com login information and lets you quickl
 
 [<img src="http://i.imgur.com/RKPXP7l.png" align="center" width="400">](https://chrome.google.com/webstore/detail/toggle-it-by-oyecode/cjpcmpioceijmelkgknddeiljogoakbl?hl=en)
 
-## Salesforce Navigator&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/toggle-it-by-oyecode/cjpcmpioceijmelkgknddeiljogoakbl?hl=en)
+## Salesforce Navigator&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/salesforce-navigator/ecjmdlggbilopfkkhggmgebbmbiklcdo?hl=en)
 
 Using this extension, you can navigate to any Salesforce setup page just by hitting a configurable keyboard shortcut, then enter some search text. The best thing about this extension is that it comes up on your browser like Apple’s spotlight and you don’t need to navigate to any other page.
 
 [<img src="https://lh6.googleusercontent.com/cloCoUa0pZboT1RPyD1hNd6HA5wyA5NUjEvinbpMYOp3jHNZtMCd4Of2wD6sjIbStYvWygoYCA=s640-h400-e365-rw" align="center" width="400">](https://chrome.google.com/webstore/detail/salesforce-navigator/ecjmdlggbilopfkkhggmgebbmbiklcdo?utm_source=chrome-app-launcher-info-dialog)
 
-## Salesforce advanced Code searcher&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/toggle-it-by-oyecode/cjpcmpioceijmelkgknddeiljogoakbl?hl=en)
+## Salesforce advanced Code searcher&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/salesforce-advanced-code/lnkgcmpjkkkeffambkllliefdpjdklmi?hl=en)
 
 Use this extension to search of Code modules, shows up on your Setup page
 
