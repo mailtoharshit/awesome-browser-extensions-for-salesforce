@@ -54,3 +54,10 @@ Quick Salesforce ID converter from 15 to 18 digit format.
 Chrome Developer Tools Extension for inspecting Salesforce Lightning Component apps
 
 [<img src="https://lh3.googleusercontent.com/O5XntS0pLdfDwQW7AQG8dia8GsIsQbTh377XrxiTyNSbhgcRFAzkagv-ekH-3onckPKe7A2kfEs=s640-h400-e365-rw" align="center" width="400">](https://chrome.google.com/webstore/detail/salesforce-lightning-insp/pcpmcffcomlcjgpcheokdfcjipanjdpc)
+
+
+## Salesforce ORGanizer &nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/salesforce-organizer/lojdmgdchjcfnmkmodggbaafecagllnh)
+
+Useful tools for developers and administrators
+
+[<img src="https://pbs.twimg.com/media/CvoaQXuWcAEJUDR.jpg:large" align="center" width="400">](https://chrome.google.com/webstore/detail/salesforce-organizer/lojdmgdchjcfnmkmodggbaafecagllnh)
