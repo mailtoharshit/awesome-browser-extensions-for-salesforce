@@ -65,10 +65,10 @@ Useful tools for developers and administrators
 
 ## Salesforce Dev Tools&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/salesforce-developer-tool/fiaakhiohminpblhmlihfcdhclmphjcd?utm_source=chrome-app-launcher-info-dialog)
 
-Salesforce Dev Tools is a simple but powerful chrome extension for doing the below things:
-・Export objects api documents (Excel).
-・Show fields api name on Salesforce object detail page.
-・Generate apex code for unit test coding.
-・Quick access to new record page, list page and object setting page.
+Salesforce Dev Tools is a simple but powerful chrome extension for doing the below things:<br />
+・Export objects api documents (Excel).<br />
+・Show fields api name on Salesforce object detail page.<br />
+・Generate apex code for unit test coding.<br />
+・Quick access to new record page, list page and object setting page.<br />
 
 [<img src="https://cloud.githubusercontent.com/assets/5466487/20777731/42582aee-b7ac-11e6-81f6-5d58afb372e9.png" align="center" width="400">](https://chrome.google.com/webstore/detail/salesforce-dev-tools/ehgmhinnhggigkogkbhnbodhbfjgncjf)
