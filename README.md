@@ -63,7 +63,7 @@ Useful tools for developers and administrators
 [<img src="https://pbs.twimg.com/media/CvoaQXuWcAEJUDR.jpg:large" align="center" width="400">](https://chrome.google.com/webstore/detail/salesforce-organizer/lojdmgdchjcfnmkmodggbaafecagllnh)
 
 
-## Salesforce Dev Tools&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/salesforce-developer-tool/fiaakhiohminpblhmlihfcdhclmphjcd?utm_source=chrome-app-launcher-info-dialog)
+## Salesforce Dev Tools&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/salesforce-dev-tools/ehgmhinnhggigkogkbhnbodhbfjgncjf)
 
 Salesforce Dev Tools is a simple but powerful chrome extension for doing the below things:<br />
 ・Export objects api documents (Excel).<br />
@@ -73,7 +73,7 @@ Salesforce Dev Tools is a simple but powerful chrome extension for doing the bel
 
 [<img src="https://cloud.githubusercontent.com/assets/5466487/20777731/42582aee-b7ac-11e6-81f6-5d58afb372e9.png" align="center" width="400">](https://chrome.google.com/webstore/detail/salesforce-dev-tools/ehgmhinnhggigkogkbhnbodhbfjgncjf)
 
-## Salesforce Mass Editor&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/salesforce-developer-tool/fiaakhiohminpblhmlihfcdhclmphjcd?utm_source=chrome-app-launcher-info-dialog)
+## Salesforce Mass Editor&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/salesforce-mass-editor/mnmlmkmjjhpbfemhmhpcpfkdlgadbigf)
 
 Salesforce Mass Editor is a chrome extension supports to mass insert, clone, update, delete records, export data to csv and copy&paste from excel with multiple rows and cells, it works on any Salesforce list view.
 
