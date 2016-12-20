@@ -78,3 +78,7 @@ Salesforce Dev Tools is a simple but powerful chrome extension for doing the bel
 Salesforce Mass Editor is a chrome extension supports to mass insert, clone, update, delete records, export data to csv and copy&paste from excel with multiple rows and cells, it works on any Salesforce list view.
 
 [<img src="https://cloud.githubusercontent.com/assets/5466487/20992806/e632a89c-bd29-11e6-8534-c2f14f172a1c.png" align="center" width="400">](https://chrome.google.com/webstore/detail/salesforce-mass-editor/mnmlmkmjjhpbfemhmhpcpfkdlgadbigf)
+
+## Ebsta For Salesforce&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/ebsta-for-salesforce/gemcgnkghpnfbmlfimdbdgfepcgenphf)
+
+The extension automatically cross-references Salesforce based on the web page you’re looking at and gives you 1-click access to view the Salesforce record without leaving the page. You can also edit and update records, manage tasks, Chatter and heaps more - it’s like a pocket sized SFDC inside every website you visit.
