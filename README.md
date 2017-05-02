@@ -82,3 +82,15 @@ Salesforce Mass Editor is a chrome extension supports to mass insert, clone, upd
 ## Ebsta For Salesforce&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/ebsta-for-salesforce/gemcgnkghpnfbmlfimdbdgfepcgenphf)
 
 The extension automatically cross-references Salesforce based on the web page you’re looking at and gives you 1-click access to view the Salesforce record without leaving the page. You can also edit and update records, manage tasks, Chatter and heaps more - it’s like a pocket sized SFDC inside every website you visit.
+
+## Apex Debugger&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/apex-debugger/mpckkbblhbfngaininanfjpdfjhbncjo)
+
+Improved view of debug logs.
+Press Shift+d from any salesforce page to open Debug Logs and start tracking current user.
+
+• Improved view of logs (select from available themes).  
+• Search string in latest logs   
+• Click any Id in logs to go to Object (Class, Trigger, Validation Rule e.t.c).  
+• Indent User Debug (sObject, List, XML or JSON)  
+
+[<img src="https://raw.githubusercontent.com/motiko/awesome-browser-extensions-for-salesforce/apex_debugger/ApexDebugger.png" align="center" width="400">](https://chrome.google.com/webstore/detail/apex-debugger/mpckkbblhbfngaininanfjpdfjhbncjo)
