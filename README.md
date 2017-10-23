@@ -108,7 +108,7 @@ Press Shift+d from any salesforce page to open Debug Logs and start tracking cur
 Creates change sets faster.
 Page does not reload for adding or removing components in the change set.
 
-* "View" and "Edit" mode for removing/ adding components respectively from a single screen without reload.
+* "View" and "Edit" mode for removing/ adding components respectively from a single screen without reloading.
 * View last modified date, last modified by, report folder name.
 * Remove multiple components by selecting manually or uploading CSV. 
 
