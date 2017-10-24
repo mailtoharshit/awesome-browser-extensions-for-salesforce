@@ -101,3 +101,15 @@ Press Shift+d from any salesforce page to open Debug Logs and start tracking cur
 • Indent User Debug (sObject, List, XML or JSON)  
 
 [<img src="https://raw.githubusercontent.com/motiko/awesome-browser-extensions-for-salesforce/apex_debugger/ApexDebugger.png" align="center" width="400">](https://chrome.google.com/webstore/detail/apex-debugger/mpckkbblhbfngaininanfjpdfjhbncjo)
+
+
+## Salesforce Change Set Turbo&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/salesforce-change-set-tur/dlcjllapchpeedkecmhfnpfenpbglioo)
+
+Creates change sets faster.
+Page does not reload for adding or removing components in the change set.
+
+* "View" and "Edit" mode for removing/ adding components respectively from a single screen without reloading.
+* View last modified date, last modified by, report folder name.
+* Remove multiple components by selecting manually or uploading CSV. 
+
+[<img src="https://raw.githubusercontent.com/sandeepwalia/awesome-browser-extensions-for-salesforce/master/Change%20Set%20Turbo.jpg" align="center" width="400">](https://chrome.google.com/webstore/detail/salesforce-change-set-tur/dlcjllapchpeedkecmhfnpfenpbglioo)
