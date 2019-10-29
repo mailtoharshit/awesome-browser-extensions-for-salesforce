@@ -124,3 +124,13 @@ Productivity tools for Salesforce administrators and developers to inspect data 
 * Perform quick one-off data exports and imports directly from within Salesforce. Data can be easily copied to and from Excel. No need to log in again when you are already logged in with your browser.
 
 [<img src="https://lh3.googleusercontent.com/Gx1MYRd9QKjsNEUFd2LIaxi3ZlZ39VOwER4294V7v1CTcQxIv9vis-xs5JlbpSkWDfvgcZc9=w640-h400-e365" align="center" width="400">](https://chrome.google.com/webstore/detail/salesforce-inspector/aodjmnfhjibkcdimpodiifdjnnncaafh)
+
+
+## Salesforce Colored Favicons&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/salesforce-colored-favico/peohlnebahcddpmfaplmilpkgbkkcdho)
+
+Overrides the standard salesforce favicon with one colored based on the org. Also, displays a separate icon for sandbox instances.
+Automatically updates the icon for salesforce.com to display a colored cloud icon based on the current instance. Also, includes a separate icon with an 'S' to indicate sandbox instances.
+
+Supports both Classic and Lightning Experience!
+
+[<img src="https://lh3.googleusercontent.com/Gx1MYRd9QKjsNEUFd2LIaxi3ZlZ39VOwER4294V7v1CTcQxIv9vis-xs5JlbpSkWDfvgcZc9=w640-h400-e365" align="center" width="400">](https://lh3.googleusercontent.com/Yf-_BJyz3tQb6OYgC1X8z9y9S7uhEkA6OThCdLHlR5NdDyeproV08FWnxFb_xhMnXdmNY5VdGGg=w640-h400-e365)
