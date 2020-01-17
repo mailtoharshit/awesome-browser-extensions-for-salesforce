@@ -140,3 +140,25 @@ It provides shortcuts to
 - Open Org Lighting Web Component Documents
 
 [<img src="https://lh3.googleusercontent.com/Gx1MYRd9QKjsNEUFd2LIaxi3ZlZ39VOwER4294V7v1CTcQxIv9vis-xs5JlbpSkWDfvgcZc9=w640-h400-e365" align="center" width="400">](https://lh3.googleusercontent.com/j9mc6CzOB9uoJAmwJluhoVflxU7349hSgXkafNAmXYV2ZXA8XmUIY3j6F7S9UQ3nOSwSX1qyAQ=w640-h400-e365)
+
+
+## SalesforceXyTools for Chrome&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/salesforce-xytools/ehklfkbacogbanjgekccnbfdgjechlmf)
+
+SalesforceXyTools,SFDC,Salesforce,Force.com.Quickly Search Sobject,Apex,VF.1 click Login SFDC.Auto Create & Run Soql, Apex Script
+
+* Login SFDC By 1 click.
+* Quickly Search For Sobject, Apex, Trigger, Page, Component, EmailTemplate, SataticResource, etc.
+* Auto Create Soql, Run Soql, Soql History.
+* Run Apex Script.
+* Quick Search SFDC Document.
+* Run Rest Query.
+* View Apex Code Coverage, Run Test Class, Auto CreateTestCode.
+* Run JSForce Script.
+* Download CSV/XLSX/Json.
+* Apex Log Viewer.
+* Data Migrate Between two Organization (Bulk Api).
+* Export Schema To XLSX, CSV.
+* Code Creator(SOQL,DAT,DTO,CONST,VF-page,Controller,process-xml.conf,sdl...)
+
+
+[<img src="https://lh3.googleusercontent.com/hWr1iDOgnZYfgqmE50TWqgyxqM3H0K2DPg6rQ53vJ-0gP7Rz9HgAn2jdLRJTTmUzyIIkwdz1hw=w640-h400-e365" align="center" width="400">](https://chrome.google.com/webstore/detail/salesforce-xytools/ehklfkbacogbanjgekccnbfdgjechlmf)
