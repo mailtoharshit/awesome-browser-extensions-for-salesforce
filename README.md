@@ -140,3 +140,26 @@ It provides shortcuts to
 - Open Org Lighting Web Component Documents
 
 [<img src="https://lh3.googleusercontent.com/Gx1MYRd9QKjsNEUFd2LIaxi3ZlZ39VOwER4294V7v1CTcQxIv9vis-xs5JlbpSkWDfvgcZc9=w640-h400-e365" align="center" width="400">](https://lh3.googleusercontent.com/j9mc6CzOB9uoJAmwJluhoVflxU7349hSgXkafNAmXYV2ZXA8XmUIY3j6F7S9UQ3nOSwSX1qyAQ=w640-h400-e365)
+
+## Salesforce Dependent Picklist Matrix Export&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/salesforce-dependent-pick/fpieolagnlkejcpejlbjgbdpaglffacj)
+
+Saves the Dependent Picklist Matrix as a CSV file
+Salesforce does not provide any feature to extract the Dependent Picklist Matrix for analysis, comparison and reporting. This extension helps to export the dependency matrix as a CSV file and supports using "View All" for more than 5000 entries.
+
+Compatibility:
+- Supported in Classic
+- Supported in Lightning
+
+[<img src="https://github.com/mani2246/awesome-browser-extensions-for-salesforce/blob/patch-1/Picklist%20Matrix%20View.PNG" align="center" width="400">](https://chrome.google.com/webstore/detail/salesforce-dependent-pick/fpieolagnlkejcpejlbjgbdpaglffacj)
+
+
+
+## Salesforce Data/Metadata Utility&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/salesforce-datametadata-u/jkmajpplbomebfegjjagbeoblheeehld)
+
+This extension helps to work with Record Data and Metadata with few clicks to make you more productive.
+It also has features to overcome some of the Salesforce limitations.
+
+Compatibility:
+- Supported in Classic
+- Supported in Lightning
+
