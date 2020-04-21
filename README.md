@@ -150,7 +150,7 @@ Compatibility:
 - Supported in Classic
 - Supported in Lightning
 
-[<img src="https://drive.google.com/file/d/1EgAUBIUcVt36_08UwMWkG8lRzxyRwn9P/" align="center" width="400">](https://chrome.google.com/webstore/detail/salesforce-dependent-pick/fpieolagnlkejcpejlbjgbdpaglffacj)
+<a href="https://drive.google.com/uc?export=view&id=1EgAUBIUcVt36_08UwMWkG8lRzxyRwn9P"><img src="https://drive.google.com/uc?export=view&id=1EgAUBIUcVt36_08UwMWkG8lRzxyRwn9P" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
 ## Salesforce Data/Metadata Utility&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/salesforce-datametadata-u/jkmajpplbomebfegjjagbeoblheeehld)
 
