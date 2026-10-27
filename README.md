@@ -5,6 +5,9 @@
 
 > A collection of awesome browser extensions for Salesforce. Read complete list of [awesome-salesforce resources](https://github.com/mailtoharshit/awesome-salesforce).
 
+## Salesforce Quick Access - Inspect, query, compare and deploy from one sidebar &nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_24x24.png"  >](https://chromewebstore.google.com/detail/salesforce-quick-access/anjccglcmoocjjaeehdndfcgeajhkbhk)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_24x24.png"  >](https://microsoftedge.microsoft.com/addons/detail/salesforce-quick-access/dpoglfhjfbdfcaokbaohbaalmdpdpgeg)
+
+A free extension for Chrome and Edge that puts everyday Salesforce admin and developer tasks in one sidebar, with no extra login: it uses the Salesforce session you already have open. Inspect and edit any record, run SOQL queries with field and picklist suggestions, compare two profiles or permission sets, analyze debug logs, see what changed recently, and group the components of a story in "My work". Then validate and deploy a few components (Apex, LWC, Aura, Visualforce, custom fields, labels, flows, validation rules, custom metadata) to another org without a change set. Your data stays in your browser.
 
 ## Toggle it - Turn Developer mode On/Off with click &nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/toggle-it-by-oyecode/cjpcmpioceijmelkgknddeiljogoakbl?hl=en)
 
