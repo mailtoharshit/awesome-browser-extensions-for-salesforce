@@ -140,3 +140,9 @@ It provides shortcuts to
 - Open Org Lighting Web Component Documents
 
 [<img src="https://lh3.googleusercontent.com/Gx1MYRd9QKjsNEUFd2LIaxi3ZlZ39VOwER4294V7v1CTcQxIv9vis-xs5JlbpSkWDfvgcZc9=w640-h400-e365" align="center" width="400">](https://lh3.googleusercontent.com/j9mc6CzOB9uoJAmwJluhoVflxU7349hSgXkafNAmXYV2ZXA8XmUIY3j6F7S9UQ3nOSwSX1qyAQ=w640-h400-e365)
+
+## Flow Doc for Salesforce  [](https://chromewebstore.google.com/detail/flow-doc-for-salesforce/bognegcgfgpgdkhakgefgpfbikbgcgaj)
+
+Lists every flow in the org with filters, generates a documentation page per flow (trigger, elements, fields read and written) with Markdown and Excel export, and flags record-triggered flows that run on the same object and timing. Read-only, free, no server: it uses your existing Salesforce session and calls only your org's API.
+
+[](https://chromewebstore.google.com/detail/flow-doc-for-salesforce/bognegcgfgpgdkhakgefgpfbikbgcgaj)
