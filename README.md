@@ -140,3 +140,9 @@ It provides shortcuts to
 - Open Org Lighting Web Component Documents
 
 [<img src="https://lh3.googleusercontent.com/Gx1MYRd9QKjsNEUFd2LIaxi3ZlZ39VOwER4294V7v1CTcQxIv9vis-xs5JlbpSkWDfvgcZc9=w640-h400-e365" align="center" width="400">](https://lh3.googleusercontent.com/j9mc6CzOB9uoJAmwJluhoVflxU7349hSgXkafNAmXYV2ZXA8XmUIY3j6F7S9UQ3nOSwSX1qyAQ=w640-h400-e365)
+
+## Permission Compare for Salesforce  [](https://chromewebstore.google.com/detail/permission-compare-for-sa/mjjnfpikbpkijglkajlibcinjngckfpp)
+
+Compare the effective permissions of two users (profile + permission sets + permission set groups, muting included), in the same org or across orgs, and export the diff to CSV / Excel. Includes a high-risk permission audit: who holds Modify All Data and where it comes from, object-level View All / Modify All, inactive users still holding permission sets, unused and near-duplicate permission sets. Read-only, free, no server: it uses your existing Salesforce session and calls only your org's API.
+
+[](https://chromewebstore.google.com/detail/permission-compare-for-sa/mjjnfpikbpkijglkajlibcinjngckfpp)
